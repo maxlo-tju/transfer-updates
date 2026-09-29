@@ -6,6 +6,14 @@
 <description>Maxlo Transfer auto-update feed</description>
 <language>en</language>
 <item>
+<title>Version 3.0.7 (570)</title>
+<pubDate>Tue, 29 Sep 2026 15:27:14 +0000</pubDate>
+<sparkle:version>570</sparkle:version>
+<sparkle:shortVersionString>3.0.7 (570)</sparkle:shortVersionString>
+<sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/maxlo-tju/transfer-updates/releases/download/v3.0.7-build570/MaxloTransfer-v3.0.7-build570-2026-09-29.dmg" length="29890730" type="application/octet-stream" sparkle:edSignature="JzBiOQBBFvrN139sr2ldzNKxTdHsJejZw7MRxHRa1hZs+s1xrcUp/XShG9YOdcJHqlgUSOaNUo19XBQNW9dLAQ==" />
+</item>
+<item>
 <title>Version 3.0.7 (569)</title>
 <pubDate>Mon, 28 Sep 2026 21:01:02 +0000</pubDate>
 <sparkle:version>569</sparkle:version>
